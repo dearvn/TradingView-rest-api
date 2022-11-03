@@ -15,4 +15,4 @@
 ## 4. Websocket
 
 * URI: `wss://data.tradingview.com/socket.io/websocket`
-
+* Ref (https://github.com/dearvn/tradingview_ws)
