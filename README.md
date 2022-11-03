@@ -6,3 +6,13 @@
 ## 2. Get news related symbol
 * Method: GET
 * URI: `https://news-headlines.tradingview.com/headlines/latest/?lang=en&symbol=CME_MINI%3AES1!`
+
+## 3. Search symbol
+
+* Method: GET
+* URI: `https://symbol-search.tradingview.com/symbol_search`
+
+## 4. Websocket
+
+* URI: `wss://data.tradingview.com/socket.io/websocket`
+
